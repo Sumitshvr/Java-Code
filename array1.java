@@ -1,3 +1,4 @@
+/*Display array elemnts*/
 import java.util.Scanner;
 
 public class array1 {
